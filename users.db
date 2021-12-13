@@ -1,4 +1,6 @@
 {"_id":"123@abc.pt","confirm":1,"password":"$2b$10$k4CZmwdvs7mpxE6x7b8aB.z2M8ytIv8bMI8162kmwq2j0qiMvqVEC","confirmationToken":"eyJhbGciOiJIUzI1NiJ9.MTIzQGFiYy5wdA.bGdyS4J2WvfmS5X0ZDbKWyj8WmKoLCkWNGby35302ck"}
-{"_id":"teste@teste.pt","confirm":1,"password":"$2b$10$Tm62MqdmlpsSppwDS95lNeJ1oDXTMH/.ZM85cPGGnacuraBH8Dtae","confirmationToken":"eyJhbGciOiJIUzI1NiJ9.dGVzdGVAdGVzdGUucHQ.N0g8Ep3MYqUsA5tXURy2hm2BWhKUJzeejqlOfQWSnTo"}
-{"_id":"456@abc.pt","confirm":0,"password":"$2b$10$tsOcBx964vPHuYjbThtXDOXtl45lWplIJQzCABfAKCLGLQNDssBly","confirmationToken":"eyJhbGciOiJIUzI1NiJ9.NDU2QGFiYy5wdA.w_SOc8Yx-dKiLgDULrvofDmDJ9GxdQyM8R2mj2Bwmds"}
 {"_id":"456@abc.pt","confirm":1,"password":"$2b$10$tsOcBx964vPHuYjbThtXDOXtl45lWplIJQzCABfAKCLGLQNDssBly","confirmationToken":"eyJhbGciOiJIUzI1NiJ9.NDU2QGFiYy5wdA.w_SOc8Yx-dKiLgDULrvofDmDJ9GxdQyM8R2mj2Bwmds"}
+{"_id":"joao@pt.pt","confirm":1,"password":"$2b$10$YIE4Cp5xsGZONZbIzYT.Ju93Uo5R3VlcQW2zcKFUxMTpc20aekuTi","confirmationToken":"eyJhbGciOiJIUzI1NiJ9.am9hb0BwdC5wdA.gtNWTSlEzKsACu5zDYMVgLn5lXDWXsale_G-55d2rrU"}
+{"_id":"teste@teste.pt","confirm":1,"password":"$2b$10$Tm62MqdmlpsSppwDS95lNeJ1oDXTMH/.ZM85cPGGnacuraBH8Dtae","confirmationToken":"eyJhbGciOiJIUzI1NiJ9.dGVzdGVAdGVzdGUucHQ.N0g8Ep3MYqUsA5tXURy2hm2BWhKUJzeejqlOfQWSnTo"}
+{"_id":"j@hot.pt","confirm":0,"password":"$2b$10$EnfB05j4fLzLI1vGc3/EEOAsmO79ssSXXUyUQTyAkNB53r3PqJguS","confirmationToken":"eyJhbGciOiJIUzI1NiJ9.akBob3QucHQ._pPDX9I7vzCLp_WB8Co8Oiq1Io9P-GLgPeVMa_rvdD0"}
+{"_id":"j@hot.pt","confirm":1,"password":"$2b$10$EnfB05j4fLzLI1vGc3/EEOAsmO79ssSXXUyUQTyAkNB53r3PqJguS","confirmationToken":"eyJhbGciOiJIUzI1NiJ9.akBob3QucHQ._pPDX9I7vzCLp_WB8Co8Oiq1Io9P-GLgPeVMa_rvdD0"}

@@ -2,9 +2,9 @@
   "name": "atividade3",
   "version": "1.0.0",
   "description": "",
-  "main": "nodemon index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.html"
   },
   "author": "João Ascenso",
   "license": "ISC",
