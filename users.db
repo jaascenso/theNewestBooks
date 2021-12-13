@@ -1,0 +1,4 @@
+{"_id":"123@abc.pt","confirm":1,"password":"$2b$10$k4CZmwdvs7mpxE6x7b8aB.z2M8ytIv8bMI8162kmwq2j0qiMvqVEC","confirmationToken":"eyJhbGciOiJIUzI1NiJ9.MTIzQGFiYy5wdA.bGdyS4J2WvfmS5X0ZDbKWyj8WmKoLCkWNGby35302ck"}
+{"_id":"teste@teste.pt","confirm":1,"password":"$2b$10$Tm62MqdmlpsSppwDS95lNeJ1oDXTMH/.ZM85cPGGnacuraBH8Dtae","confirmationToken":"eyJhbGciOiJIUzI1NiJ9.dGVzdGVAdGVzdGUucHQ.N0g8Ep3MYqUsA5tXURy2hm2BWhKUJzeejqlOfQWSnTo"}
+{"_id":"456@abc.pt","confirm":0,"password":"$2b$10$tsOcBx964vPHuYjbThtXDOXtl45lWplIJQzCABfAKCLGLQNDssBly","confirmationToken":"eyJhbGciOiJIUzI1NiJ9.NDU2QGFiYy5wdA.w_SOc8Yx-dKiLgDULrvofDmDJ9GxdQyM8R2mj2Bwmds"}
+{"_id":"456@abc.pt","confirm":1,"password":"$2b$10$tsOcBx964vPHuYjbThtXDOXtl45lWplIJQzCABfAKCLGLQNDssBly","confirmationToken":"eyJhbGciOiJIUzI1NiJ9.NDU2QGFiYy5wdA.w_SOc8Yx-dKiLgDULrvofDmDJ9GxdQyM8R2mj2Bwmds"}
